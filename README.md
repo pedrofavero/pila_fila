@@ -1,5 +1,13 @@
 # Pilha e Fila
 
+## Participantes
+
+### Pedro Henrique Valente Favero
+
+### Lucas Pelanda
+
+### Davi Kazuhiro 
+
 ## Como rodar:
 
 - Clone o repositório
